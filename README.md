@@ -1,6 +1,4 @@
-# FIT4012 - Lab 4: AES-128 Starter Repository
-
-Repo này là **starter repo** cho bài thực hành AES-128. Cấu trúc được chỉnh theo phong cách của repo `fit4012-lab4-des-starter-kit`, nhưng nội dung mã nguồn sử dụng bộ file AES cô cung cấp.
+# FIT4012 - Lab 5: AES-128 Starter Repository
 
 ## 1. Cấu trúc repo
 
@@ -144,7 +142,7 @@ Trước khi nộp, sinh viên cần có:
 
 Bản code này phục vụ mục tiêu học thuật để sinh viên quan sát các bước cơ bản của AES-128: SubBytes, ShiftRows, MixColumns, AddRoundKey và KeyExpansion.
 
-Một số điểm có thể giao sinh viên cải tiến:
+Một số điểm sinh viên có thể cải tiến:
 
 - tách code thành thư viện thay vì để nhiều logic trong `main`
 - đọc/ghi binary an toàn hơn thay vì phụ thuộc vào chuỗi C-style
